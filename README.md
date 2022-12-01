@@ -1,4 +1,5 @@
-# Snowpack Tailwind
+# app-lazy-loading
+Practice Lazy Loading 01/12/2022
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
